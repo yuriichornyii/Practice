@@ -3,3 +3,4 @@ print("Cood bye!!!")
 
 print("Cood bye , World!!!")
 
+print("Hello world and Yurii!!!")
