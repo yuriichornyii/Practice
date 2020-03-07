@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 print("Hello world!!!")
 print("Cood bye!!!")
 
 print("Cood bye , World!!!")
 
-=======
 print("Hello world and Yurii!!!")
->>>>>>> ddc80e4... chanch 2txt
